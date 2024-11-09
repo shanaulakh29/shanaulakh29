@@ -24,6 +24,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats-salesp07.vercel.app/api?username=shanaulakh29&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10"alt="shanaulakh29" /></p>
 
 <h3 align="left">My GitHub Contributions</h3>
-![Snake animation](https://github.com/shanaulakh29/shanaulakh29/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/shanaulakh29/shanaulakh29/blob/output/github-snake.svg)
 
 
