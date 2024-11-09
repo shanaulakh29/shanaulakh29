@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Gurshan Aulakh</h1>
 <h3 align="center">A passionate frontend developer from Canada</h3>
-
+<img align="right" alt="coding image" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 - 🔭 I’m currently working on [Podcast AI Project](https://github.com/CMPT-276-FALL-2024/project-21-springs)
 
 - 🌱 I’m currently learning **Databases**
@@ -22,3 +22,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanaulakh29&show_icons=true&locale=en&layout=compact" alt="shanaulakh29" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shanaulakh29&show_icons=true&locale=en" alt="shanaulakh29" /></p>
+
+<h3 align="left">My GitHub Contributions</h3>
+![Snake animation](https://github.com/shanaulakh29/shanaulakh29/blob/output/github-contribution-grid-snake.svg)
