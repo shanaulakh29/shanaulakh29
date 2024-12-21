@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning **Databases**
 
-💬 Ask me about **JS, React, Vue, TailwindCSS, C++, Java**
+💬 Ask me about **JS, Next, React,Redux, TailwindCSS, C++, Java**
 
  </div>
  
