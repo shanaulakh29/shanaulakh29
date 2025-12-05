@@ -10,12 +10,7 @@
 <div align="center">
  
  🔭 I’m currently working on **[Podcast AI Project](https://github.com/CMPT-276-FALL-2024/project-21-springs)**
- 
- 🌱 I’m currently learning **Databases**
-
-💬 Ask me about **JS, Next, React, Redux, TailwindCSS, C++, Java**
-
- </div>
+  </div>
  
 <div align="center"> 
   <a href="gsa166@sfu.ca">
